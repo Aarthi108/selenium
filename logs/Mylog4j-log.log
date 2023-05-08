@@ -1,0 +1,9 @@
+['INFO ]2023-04-17 18:36:16,806(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing Info---->
+['WARN ]2023-04-17 18:36:16,820(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing warn---->
+['ERROR]2023-04-17 18:36:16,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing error---->
+['INFO ]2023-04-17 18:36:16,809(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing Info---->
+['WARN ]2023-04-17 18:36:16,827(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing warn---->
+['ERROR]2023-04-17 18:36:16,829(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing error---->
+['INFO ]2023-04-19 13:26:24,879(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing Info---->
+['WARN ]2023-04-19 13:26:24,883(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing warn---->
+['ERROR]2023-04-19 13:26:24,884(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing error---->
